@@ -138,7 +138,7 @@ export default function Dashboard() {
               </div>
               <h3 className="text-lg font-bold text-gray-800">¡Hola! Soy tu Agente IA</h3>
               <p className="text-gray-500 text-sm">
-                Dime qué quieres construir o describe los planos del proyecto <b>{proyecto?.nombre}</b> y generaré un presupuesto detallado al instante.
+                Dime qué quieres construir o describe los planos del proyecto <b>{proyectoActivo?.nombre}</b> y generaré un presupuesto detallado al instante.
               </p>
             </div>
           )}
