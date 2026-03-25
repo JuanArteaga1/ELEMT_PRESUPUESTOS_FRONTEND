@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://elemt-presupuestos-backned-4lh7boak6.vercel.app/api/$1"
+      "destination": "https://elemt-presupuestos-backned-cucyov3es.vercel.app/api/$1"
     },
     {
       "source": "/(.*)",
